@@ -33,7 +33,7 @@ def exibir_opcoes():
     print('1. Cadastrar restaurante')
     print('2. Listar restaurante')
     print('3. Ativar restaurante')
-    print('4. Sair\n')
+    print('4. Sair do app\n')
 
 def finalizar_app():
     """Prepara a tela e exibe o subtítulo correspondente ao encerramento do app."""
